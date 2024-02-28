@@ -1,8 +1,6 @@
 # Loan-Approval
 Loan Approval Classification
 
-### Project is a Part of Hackathon by [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/).
-
 ***
 
 ### Evaluation Metric is Accuracy.
